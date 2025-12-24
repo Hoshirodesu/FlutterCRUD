@@ -1,16 +1,9 @@
-# crud
+```
+Nama: Mochammad Raffi Fadhillah
+NPM: 23552011066
+Kelas: TIF RP 23 CID B
+```
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Aplikasi Flutter CRUD Sederhana menggunakan cloud storage (firebase)
+![WhatsApp Image 2025-12-24 at 4 45 32 PM](https://github.com/user-attachments/assets/f308b1ba-e40a-489e-a7ce-f4ce5b171e5f) | ![WhatsApp Image 2025-12-24 at 4 45 32 PM (1)](https://github.com/user-attachments/assets/f9eb4225-5da7-4dc5-be39-ecf0b2fc71fe)
+|:-------------------------------:|:-------------------------------:|
